@@ -1,0 +1,8 @@
+scipy
+numpy
+matplotlib
+pandas
+networkx
+folium
+PyQt5
+ipython
